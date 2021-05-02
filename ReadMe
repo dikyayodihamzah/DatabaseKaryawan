@@ -1,0 +1,12 @@
+#ReadMe
+
+Diky Afamby Yodihamzah    19/444047/TK/49243
+Handoko Wisnu Murti       19/444054/TK/49250
+
+Cara Menjalankan :
+
+Untuk menjalankan API, dapat membuka keseluruhan file di Visual studio code
+
+Lalu jalankan program dengan syntax "npm start" di terminal
+
+Lalu bukalah browser dan akses link berikut: http://localhost:3000/
